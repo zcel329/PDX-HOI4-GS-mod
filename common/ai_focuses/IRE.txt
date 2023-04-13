@@ -1,0 +1,11 @@
+ai_historical_focus_list_IRE = {
+	ai_national_focuses = {
+		IRE_pol
+		IRE_ccp
+		IRE_treet
+		IRE_coa
+		IRE_magfort
+		IRE_xmas
+		IRE_inf
+	}
+}

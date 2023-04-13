@@ -1,0 +1,15 @@
+ai_historical_focus_list_NZL = {
+	ai_national_focuses = {
+		NZL_national_roads_board									#1936
+		NZL_new_zealand_steel										#1936
+		NZL_wairarapa_sheep_farms									#1936
+		NZL_bureau_of_industry										#1940
+		NZL_central_department_of_industry
+		NZL_industrial_conscription
+		NZL_taranaki_oil
+		NZL_army_reforms
+		NZL_chariton_automatic_rifle
+		NZL_domestic_arms_industry									#1941
+		NZL_think_big												#1942
+	}
+}
